@@ -110,7 +110,7 @@ public class DecHexBinConversionGui extends Application {
 		
 		//we set scene
 		Scene scene = new Scene(pane, 250, 125);
-	    primaryStage.setTitle("16.5"); // Set the stage title
+	    primaryStage.setTitle("Decimal, hexadecimal, binary Calculator"); // Set the stage title
 	    primaryStage.setScene(scene); // Place the scene in the stage
 	    primaryStage.show(); // Display the stage
 		
